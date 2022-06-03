@@ -1,0 +1,77 @@
+/* @Filename : index.css
+   @Author : mun-jung-su
+   @Description : CSS
+*/
+
+
+* {
+    background-color: #eee;
+}
+.container {
+    width: 500px;
+    margin: auto;
+    /* border: 2px solid #000; */
+}
+h1 {
+    font-size: 30px;
+    color: rgb(94, 202, 52);
+    font-weight: bold;
+    text-align: center;
+}
+.col-md-2 {
+    width: 20%;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.col-md-10 {
+    width: 80%;
+    margin: auto;
+}
+.col-md-3 {
+    width:30%;
+    margin-right: 10px;
+    float: left;
+    display: block;
+    
+    
+}
+.form_control {
+    width: 100%;
+    border: 1px solid rgb(212, 212, 212);
+    background-color: white;
+    height:30px;
+    
+}
+
+.form_group {
+    padding: 0px;
+    margin-bottom: 30px;
+    
+}
+.form-group::after {
+    content : '';
+    display: block;
+    clear: both;
+    float: none;
+}
+.identify {
+    font-size:16px;
+    color: red;
+}
+.tel-box {
+    width: 70%;
+    display: inline-block;
+   
+}
+.telclick-box {
+    width: 25%;    
+    display: inline-block;
+    margin-left: 15px;
+   
+}
+.green {
+    background-color: rgb(44, 175, 44);
+    color: white;
+    cursor: pointer;
+}
