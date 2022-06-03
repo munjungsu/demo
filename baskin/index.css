@@ -141,14 +141,14 @@ ol, ul {
 .top-header {
     border-top: 2px solid rgb(255, 116, 197);
     height: 120px;
-    background : url("./baskin/baskin_img/bg_menu.jpg");
+    background : url("/baskin/baskin_img/bg_menu.jpg");
     background-repeat: no-repeat;
 
 }
 
 .banner {
     height:120px;
-    background-image: url(./baskin/baskin_img/1610330197.jpg);
+    background-image: url(/baskin/baskin_img/1610330197.jpg);
     background-size: cover;
     background-position: center center;
 }
@@ -192,14 +192,14 @@ ol, ul {
     cursor: pointer;
 }
 .slide-list .left {
-    background:url(./baskin/baskin_img/btn_banner_prev.png);
+    background:url(/baskin/baskin_img/btn_banner_prev.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position:center center;
     left: 30px;
 }
 .slide-list .right {
-    background : url(./baskin/baskin_img/btn_banner_next.png);
+    background : url(/baskin/baskin_img/btn_banner_next.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position:center center;
@@ -273,7 +273,7 @@ ol, ul {
 }
 /* -------------------메뉴리스트-------------------------- */
 .br_menu {
-    background: url(./baskin/baskin_img/bg_menu.jpg);
+    background: url(/baskin/baskin_img/bg_menu.jpg);
     background-position: -500px;
     background-repeat: no-repeat;
     margin-top: 100px;
