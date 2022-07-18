@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/demo/react_instagram_clone/static/css/main.d563b934.css",
-    "main.js": "/demo/react_instagram_clone/static/js/main.7014e023.js",
+    "main.css": "/demo/react_instagram_clone/static/css/main.fd287240.css",
+    "main.js": "/demo/react_instagram_clone/static/js/main.561c667c.js",
     "static/js/787.9d576594.chunk.js": "/demo/react_instagram_clone/static/js/787.9d576594.chunk.js",
     "static/media/2390.jpg": "/demo/react_instagram_clone/static/media/2390.18bec6dfe28a06e0e06e.jpg",
     "static/media/google.png": "/demo/react_instagram_clone/static/media/google.df59a98cb0d68982e6d6.png",
@@ -15,12 +15,12 @@
     "static/media/bookmark.svg": "/demo/react_instagram_clone/static/media/bookmark.e5a9484d8c4cb61de6df1839cbe10c9b.svg",
     "static/media/comment.svg": "/demo/react_instagram_clone/static/media/comment.b1904594628fe5aba7256f13e859095c.svg",
     "static/media/cardButton.svg": "/demo/react_instagram_clone/static/media/cardButton.675a852260f569a123f2a0d968904eac.svg",
-    "main.d563b934.css.map": "/demo/react_instagram_clone/static/css/main.d563b934.css.map",
-    "main.7014e023.js.map": "/demo/react_instagram_clone/static/js/main.7014e023.js.map",
+    "main.fd287240.css.map": "/demo/react_instagram_clone/static/css/main.fd287240.css.map",
+    "main.561c667c.js.map": "/demo/react_instagram_clone/static/js/main.561c667c.js.map",
     "787.9d576594.chunk.js.map": "/demo/react_instagram_clone/static/js/787.9d576594.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d563b934.css",
-    "static/js/main.7014e023.js"
+    "static/css/main.fd287240.css",
+    "static/js/main.561c667c.js"
   ]
 }
