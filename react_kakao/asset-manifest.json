@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ace2c67.css",
-    "main.js": "/static/js/main.b16b6b69.js",
-    "static/js/787.4f1e5c72.chunk.js": "/static/js/787.4f1e5c72.chunk.js",
-    "index.html": "/index.html",
-    "main.6ace2c67.css.map": "/static/css/main.6ace2c67.css.map",
-    "main.b16b6b69.js.map": "/static/js/main.b16b6b69.js.map",
-    "787.4f1e5c72.chunk.js.map": "/static/js/787.4f1e5c72.chunk.js.map"
+    "main.css": "/demo/react_kakao/static/css/main.6ace2c67.css",
+    "main.js": "/demo/react_kakao/static/js/main.d04e9267.js",
+    "static/js/787.4f1e5c72.chunk.js": "/demo/react_kakao/static/js/787.4f1e5c72.chunk.js",
+    "index.html": "/demo/react_kakao/index.html",
+    "main.6ace2c67.css.map": "/demo/react_kakao/static/css/main.6ace2c67.css.map",
+    "main.d04e9267.js.map": "/demo/react_kakao/static/js/main.d04e9267.js.map",
+    "787.4f1e5c72.chunk.js.map": "/demo/react_kakao/static/js/787.4f1e5c72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ace2c67.css",
-    "static/js/main.b16b6b69.js"
+    "static/js/main.d04e9267.js"
   ]
 }
